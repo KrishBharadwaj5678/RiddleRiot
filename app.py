@@ -14,9 +14,9 @@ st.write("<h2 style='color:#3FBA8C;'>Challenge Your Mind with Intriguing Puzzles
 btn=st.button("Generate Riddle")
 
 if btn:
-    api_url = 'https://api.api-ninjas.com/v1/riddles'
-    response = requests.get(api_url, headers={'X-Api-Key': '2jWCY0dASiPZc7RLybXvXA==R9oC0XPKPWiGJ6k6'})
     try:
+        api_url = 'https://api.api-ninjas.com/v1/riddles'
+        response = requests.get(api_url, headers={'X-Api-Key': '2jWCY0dASiPZc7RLybXvXA==R9oC0XPKPWiGJ6k6'})
         if response.status_code == requests.codes.ok:
             data=response.json()
             title=data[0]["title"]
@@ -27,4 +27,4 @@ if btn:
             with st.expander("Show Answer"):
                 st.write(f"<p style=font-size:20px;>{answer}</p>",unsafe_allow_html=True)
     except:
-        st.toast("Internet Error 🔌")
+        st.toast("Network Error 🔌")
