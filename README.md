@@ -1,6 +1,6 @@
 # RiddleRiot 🧠
 
-RiddleRiot is a Python based webpage that challenges users with a wide variety of riddles. Perfect for curious minds of all ages, it turns critical thinking into an entertaining adventure. ✨
+RiddleRiot is a Python based webpage that challenges users with a wide variety of random riddle. Perfect for curious minds of all ages, it turns critical thinking into an entertaining adventure. ✨
 
 ---
 
