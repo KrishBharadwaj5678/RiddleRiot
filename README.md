@@ -17,12 +17,12 @@ RiddleRiot is an interactive web platform that challenges users with a wide vari
 
 ## 🛠️ Tech Stack
 
-| Layer        | Technology                |
-|--------------|----------------------------|
-| Language     | Python                     |
-| Framework    | Streamlit                  |
-| API          | Custom Python-based APIs   |
-| Hosting      | Streamlit Community Cloud  |
+| 🔧 Technology           | 📄 Description                                      |
+|------------------------|----------------------------------------------------  |
+| Python 🐍              | Core programming language used to build the app     |
+| Streamlit 🚀           | Framework for creating interactive web interfaces   |
+| APIs ⚙️                | APIs for riddle management and logic                |
+| Streamlit Cloud ☁️     | Hosting platform to deploy and share the app        |
 
 ---
 
