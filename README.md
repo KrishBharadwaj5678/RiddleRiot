@@ -1,17 +1,18 @@
 # RiddleRiot 🧠
 
-RiddleRiot is an interactive web platform that challenges users with a wide variety of riddles and brain teasers. Whether you're a puzzle enthusiast or just looking for a fun way to sharpen your mind, RiddleRiot offers a playful and engaging experience.
+RiddleRiot is a Python based website that challenges users with a wide variety of riddles. Perfect for curious minds of all ages, it turns critical thinking into an entertaining adventure. ✨
 
 ---
 
 ## 🚀 Features
 
-- 🧩 A growing collection of riddles and logic puzzles
-- ⏱️ Timed challenges to test speed and accuracy
-- 🎮 User progress tracking and scoreboards
-- 🌐 Responsive design – play anywhere, on any device
-- 🔐 User login and profile system (optional)
-- 🎨 Clean and intuitive UI
+| 🧩 Feature             | 📄 Description                                 |
+|------------------------|-----------------------------------------------|
+| 🔘 Riddle Generator    | Generates a random riddle                     |
+| 🌐 API Integration     | Fetches riddles from API Ninjas               |
+| 🧠 Title & Question     | Displays riddle title and question            |
+| 👁️ Reveal Answer       | Click to show the riddle answer               |
+| 📱 Responsive UI       | Works on desktop and mobile devices           |
 
 ---
 
@@ -31,14 +32,14 @@ RiddleRiot is an interactive web platform that challenges users with a wide vari
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/RiddleRiot.git
+git clone https://github.com/KrishBharadwaj5678/RiddleRiot.git
 cd RiddleRiot
 ````
 
-Install dependencies (if applicable):
+Install dependencies:
 
 ```bash
-npm install
+pip install -r requirements.txt
 ```
 
 Start the development server:
@@ -51,7 +52,7 @@ streamlit run app.py
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
+Contributions are welcome!
 
 1. Fork the repo
 2. Create your feature branch: `git checkout -b my-new-feature`
