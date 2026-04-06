@@ -1,6 +1,6 @@
-# RiddleRiot 🧠
+# 🧠 RiddleRiot 
 
-RiddleRiot is a Python based webpage that challenges users with a wide variety of random riddle. Perfect for curious minds of all ages, it turns critical thinking into an entertaining adventure. ✨
+RiddleRiot is a Python based webpage that challenges users with a wide variety of random riddle. Perfect for curious minds of all ages, it turns critical thinking into an entertaining adventure. 
 
 ![RiddleRiot](https://github.com/KrishBharadwaj5678/RiddleRiot/raw/main/RiddleRiot.png)
 
@@ -20,10 +20,10 @@ RiddleRiot is a Python based webpage that challenges users with a wide variety o
 
 | 🔧 Technology           | 📄 Description                                      |
 |------------------------|----------------------------------------------------  |
-| Python 🐍              | Core programming language used to build the app     |
-| Streamlit 🚀           | Framework for creating interactive web interfaces   |
-| APIs ⚙️                | APIs for riddle management and logic                |
-| Streamlit Cloud ☁️     | Hosting platform to deploy and share the app        |
+| 🐍 Python               | Core programming language used to build the app     |
+| 🚀 Streamlit            | Framework for creating interactive web interfaces   |
+| ⚙️ APIs                 | APIs for riddle management and logic                |
+| ☁️ Streamlit Cloud      | Hosting platform to deploy and share the app        |
 
 ---
 
