@@ -3,7 +3,7 @@ import requests
 
 st.set_page_config(
     page_title="Riddle Riot",
-    page_icon="icon.png",
+    page_icon="./assets/icons/icon.png",
     menu_items={
         "About":"Experience the excitement of solving riddles and brain teasers. Join the riot of fun and test your problem-solving skills."
     }
