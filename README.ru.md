@@ -78,7 +78,7 @@ streamlit run app.py
 
 Этот проект распространяется под лицензией MIT License
 
-Подробнее см. в файле LICENSE
+Подробнее см. в файле [LICENSE](LICENSE)
 
 <p align="center"> 
   <img src="https://github.com/KrishBharadwaj5678/RiddleRiot/raw/main/assets/readme/footer.gif" width="300px"/> 
